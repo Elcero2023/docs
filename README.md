@@ -1,8 +1,8 @@
 # GitHub Docs <!-- omit in toc -->
 
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+**This repository contains the documentation website code and Markdown source files for [docs.github.com][def].
 
-GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
+GitHub's Docs team works on pre-productio**n content in a private repo that regularly syncs with this public repo.
 
 Use the table of contents icon <img src="/contributing/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to navigate to a specific section quickly.
 
@@ -54,3 +54,6 @@ When using the GitHub logos, be sure to follow the [GitHub logo guidelines](http
 ## Thanks :purple_heart:
 
 Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you for being part of our :sparkles: community :sparkles:!
+
+
+[def]: https://docs.github.com
